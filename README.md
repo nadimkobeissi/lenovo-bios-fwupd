@@ -48,10 +48,12 @@ Reboot to apply the update. The UEFI firmware will apply the capsule during boot
 
 ## Tested laptops
 
-| Model | Status |
-|---|---|
+| Model                 | Status          |
+|-----------------------|-----------------|
 | Legion Pro 7 16IAX10H | Tested, working |
 | IdeaPad Pro 5 16IAH10 | Tested, working |
+| Yoga 9 2in-1 14ILL10  | Tested, working |
+| Legion 5 15AHP10      | Tested, working |
 
 This script should work on other Lenovo laptops that use Insyde H2OFFT-based BIOS updates with a `.fd` firmware file inside the `.exe`. If you test it on another model, please open an issue or PR to update this table.
 
